@@ -1,4 +1,4 @@
-# avm-client
+# JavaScript API client for AVM
 
 This is api client library for AVM (automated valuation machine) - https://avm.enbisys.com/
 
@@ -9,12 +9,12 @@ Get instant and accurate Property Valuations and Predictive Analytics with our A
 Then install it via:
 
 ```shell
-npm install avm-client --save
+npm install avm-client
 ```
 
 ## Getting Started
 
-You can find usage example here - https://github.com/AcCakyra/avmJsExample
+You can find usage example here - https://github.com/Enbisys/avmJsExample
 
 ## Documentation for API Endpoints
 

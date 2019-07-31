@@ -32,7 +32,7 @@ class ApiClient {
         /**
          * The base URL against which to resolve every API call's (relative) path.
          * @type {String}
-         * @default http://localhost
+         * @default https://avm.enbisys.com/api
          */
         this.basePath = 'https://avm.enbisys.com/api'.replace(/\/+$/, '');
 
